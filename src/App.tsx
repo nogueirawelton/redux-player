@@ -1,5 +1,7 @@
+import { Player } from './pages/Player';
+
 function App() {
-  return <h1>Hello</h1>;
+  return <Player />;
 }
 
 export default App;
